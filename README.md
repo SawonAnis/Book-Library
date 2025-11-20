@@ -1,5 +1,5 @@
 # Book Library
-A  ASP.NET Core Web API project for managing a book library.
+  ASP.NET Core Web API project for managing a book library.
 
 This project demonstrates:
 
